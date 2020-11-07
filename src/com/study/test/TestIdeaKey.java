@@ -1,4 +1,4 @@
-package com.study;
+package com.study.test;
 
 import com.study.service.impl.PersonServiceImpl;
 
